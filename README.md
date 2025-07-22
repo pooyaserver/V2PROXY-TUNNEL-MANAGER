@@ -1,3 +1,5 @@
+<div align="center">
+ 
 # 🚀 V2PROXY TUNNEL MANAGER
 
 ```
@@ -11,11 +13,16 @@
                     		    												
 ```
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu&logoColor=white)
+![MikroTik](https://img.shields.io/badge/RouterOS-7.x-blue?logo=mikrotik&logoColor=white)
+![GRE](https://img.shields.io/badge/Tunnel-GRE-success?logo=linux&logoColor=white)
+![IPv4](https://img.shields.io/badge/IPv4-Supported-brightgreen)
+![IPv6](https://img.shields.io/badge/IPv6-Optional-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-success.svg)
 
-</p>
+</div>
 
 ---
 
@@ -72,8 +79,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/arashmohebbati/v2proxy-tunnel-
 
 ## 🔗 لینک‌ها
 
-- **Telegram:** [v2proxy](https://t.me/v2proxy)  
-- **GitHub:** [V2PROXY TUNNEL MANAGER](https://github.com/arashmohebbati/v2proxy-tunnel-manager)
+- **Telegram:** [V2PROXY](https://t.me/v2proxy)  
+- **GitHub:** [Arash Mohebbati](https://github.com/arashmohebbati)
 
 ---
 
