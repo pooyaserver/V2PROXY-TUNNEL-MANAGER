@@ -84,8 +84,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/arashmohebbati/v2proxy-tunnel-
 
 ## 🔗 لینک‌ها
 
-- **Telegram:** [V2PROXY](https://t.me/v2proxy)  
-- **GitHub:** [Arash Mohebbati](https://github.com/arashmohebbati)
+- **🚀Telegram:** [V2PROXY](https://t.me/v2proxy)  
+- **💻GitHub:** [Arash Mohebbati](https://github.com/arashmohebbati)
 
 ---
 
