@@ -56,7 +56,7 @@ generate_name() {
   local COUNT=$(grep "^${TYPE}.*_srv${SRV}" "$CONFIG_FILE" | wc -l)
   case $TYPE in
     GRE4) echo "gre$((COUNT+1))_srv${SRV}" ;;
-    GRE6) echo "GRE6Tun_srv${SRV}" ;;
+    GRE6) echo "GRE6Tun$((COUNT+1))_srv${SRV}" ;;
   esac
 }
 
