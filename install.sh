@@ -7,7 +7,7 @@ set -e
 GREEN="\e[32m"; YELLOW="\e[33m"; RED="\e[31m"; NC="\e[0m"
 SERVICE_FILE="/etc/systemd/system/v2proxy-tunnel.service"
 INSTALL_PATH="/usr/local/bin/v2proxy-tunnel-manager.sh"
-RAW_URL="https://raw.githubusercontent.com/arashmohebbati/v2proxy-tunnel-manager/main/v2proxy-tunnel-manager.sh"
+RAW_URL="https://raw.githubusercontent.com/pooyaserver/v2proxy-tunnel-manager/main/v2proxy-tunnel-manager.sh"
 
 banner() {
   echo -e "${GREEN}"
