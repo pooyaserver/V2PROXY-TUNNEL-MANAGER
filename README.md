@@ -70,7 +70,7 @@
 برای نصب و اجرای سریع کافیست این دستور را در ترمینال وارد کنید:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/arashmohebbati/v2proxy-tunnel-manager/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/pooyaserver/v2proxy-tunnel-manager/main/install.sh)
 ```
 پس از اجرا، منوی تعاملی نمایش داده می‌شود و می‌توانید نوع تونل را انتخاب کنید.
 
