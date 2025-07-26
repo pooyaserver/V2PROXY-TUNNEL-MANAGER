@@ -132,10 +132,25 @@ create_tunnel() {
     echo "3) Server 3"
     echo "4) Server 4"
     echo "5) Server 5"
+    echo "6) Server 6"
+    echo "7) Server 7"
+    echo "8) Server 8"
+    echo "9) Server 9"
+    echo "10) Server 10"
+    echo "11) Server 11"
+    echo "12) Server 12"
+    echo "13) Server 13"
+    echo "14) Server 14"
+    echo "15) Server 15"
+    echo "16) Server 16"
+    echo "17) Server 17"
+    echo "18) Server 18"
+    echo "19) Server 19"
+    echo "20) Server 20"
     echo "0) Back"
     read -p "Select: " SRV
     [[ "$SRV" == "0" ]] && return
-    [[ "$SRV" =~ ^[1-5]$ ]] && break
+    [[ "$SRV" =~ ^([1-9]|1[0-9]|20)$ ]] && break
   done
 
   NAME=$(generate_name $TYPE $SRV)
